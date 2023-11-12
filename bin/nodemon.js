@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import cli from "../lib/cli";
+const cli = require("../lib/cli");
 
 const options = cli.parse(process.argv);
 
