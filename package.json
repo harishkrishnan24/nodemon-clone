@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Learning how nodemon works",
   "bin": {
-    "nodemon": "./bin/nodemon.js"
+    "nodemon-clone": "./bin/nodemon.js"
   },
   "scripts": {},
   "author": "",
